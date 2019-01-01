@@ -23,7 +23,7 @@ if __name__ == "__main__":
     list1.append(DOG("DOG 2"))
     list1.append(CAT("CAT 1"))
     for animal in list1:
-        if isinstance(animal,DOG)
+        if isinstance(animal,DOG):
             print("It is DOG")
-        animal.say_hi()
+            animal.say_hi()
 
