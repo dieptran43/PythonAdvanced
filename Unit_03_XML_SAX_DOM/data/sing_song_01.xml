@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListSong>
+    <singsong name="Romeo A" year="1980" country="Singapore"></singsong>
+    <singsong name="Romeo B" year="1981" country="USA"></singsong>
+    <singsong name="Romeo C" year="1982" country="Vietnam"></singsong>
+    <singsong name="Romeo D" year="1983" country="China"></singsong>
+</ListSong>

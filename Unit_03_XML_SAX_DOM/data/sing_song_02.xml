@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListSong>
+    <singsong name="Romeo A" year="1980" country="Singapore">
+        <singer>Singer 1</singer>
+    </singsong>
+    <singsong name="Romeo B" year="1981" country="USA">
+        <category>Category 2</category>
+        <singer>Singer 2</singer>
+    </singsong>
+    <singsong name="Romeo C" year="1982" country="Vietnam">
+        <category>Category 1</category>
+        <category>Category 3</category>
+        <singer>Singer 3</singer>
+    </singsong>
+    <singsong name="Romeo D" year="1983" country="China">
+        <category>Category 4</category>
+        <category>Category 5</category>
+        <singer>Singer 3</singer>
+        <singer>Singer 4</singer>
+    </singsong>
+</ListSong>
